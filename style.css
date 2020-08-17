@@ -12,10 +12,13 @@
             margin: 15px;
             border-radius: 15px;
             background-color: tomato;
+            font-size:35px;
+            font-family: fantasy;
         }
         .btn{
           border:6px solid black;
           background-color: lightsalmon;
+          
         }
         body{
             background-color: tomato;
@@ -25,8 +28,5 @@
             background-color:red;
             align-items: center;
         }
-        p{
-            font-size:35px;
-            font-family: fantasy;
-        }
+        
         
